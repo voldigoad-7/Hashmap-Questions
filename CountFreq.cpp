@@ -23,9 +23,6 @@ void countFreq(int arr[],int n)
         }
     }
     
-    
-    
-    
     /*
     unordered_map<int,int>memo;
     for(int i=0;i<n;i++)
