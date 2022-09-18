@@ -10,7 +10,7 @@ int main()
 	for(auto x:vec1)
 	{
 		memo[x]++;
-	}
+	}                          //T.C. -O(n) S.C.-O(n)
 	for(int i=0;i<vec2.size();i++)
 	{
 		if(memo[vec2[i]]!=1)
