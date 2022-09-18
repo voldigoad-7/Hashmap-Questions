@@ -10,7 +10,8 @@ vector<pair<int,int>> allPairs(int A[], int B[], int N, int M, int x,vector<pair
        
        for(auto c:arr)
        {
-           memo[c]++;
+           memo[c]++;                               //T.C. - O(n), S.C-O(n) 
+	                                     //ignore that sort() thats question dependent
        }
      
 	        for(int i=0;i<M;i++)
