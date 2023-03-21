@@ -1,1 +1,1 @@
-# KumarK-Hashing-Solutions
+# Hashing-Questions (Set - 1)
